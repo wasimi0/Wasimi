@@ -1,0 +1,4 @@
+*.zip
+.vs/
+[Bb]in/
+[Oo]bj/
